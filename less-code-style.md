@@ -1,17 +1,5 @@
 # Less 编码规范 (1.1)
 
-## 简介
-
-该文档主要的设计目标是提高 Less 文档的团队一致性与可维护性。
-
-Less 代码的基本规范和原则与 [CSS 编码规范](https://github.com/ecomfe/spec/blob/master/css-style-guide.md) 保持一致。
-
-### 编撰
-
-erik、顾轶灵、黄后锦、李玉北、赵雷。
-
-本文档由`商业运营体系前端技术组`审校发布。
-
 ### 要求
 
 在本文档中，使用的关键字会以中文+括号包含的关键字英文表示：必须（MUST）。关键字"MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL"被定义在rfc2119中。

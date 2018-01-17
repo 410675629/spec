@@ -1,16 +1,5 @@
 # 模块和加载器规范
 
-## 简介
-
-该文档主要的设计目标是定义前端代码的模块规范，便于开发资源的共享和复用。该文档
-在 [amdjs](https://github.com/amdjs/amdjs-api/wiki) 规范的基础上，进行了更细粒度的规范化。
-
-### 编撰
-
-李玉北、erik、黄后锦、王杨、张立理、赵雷、陈新乐、顾轶灵、林志峰、刘恺华。
-
-本文档由`商业运营体系前端技术组`审校发布。
-
 ### 要求
 
 在本文档中，使用的关键字会以中文+括号包含的关键字英文表示： 必须(MUST) 。关键字"MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL"被定义在rfc2119中。

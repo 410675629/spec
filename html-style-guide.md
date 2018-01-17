@@ -837,6 +837,38 @@ viewport meta tag 可以设置可视区域的宽度和初始缩放大小，避�
 </table>
 ```
 
+** 说明文案的注释方法 **
+
+```html
+
+<!-- 头部 -->
+<div class="g-hd">
+    <!-- LOGO -->
+    <h1 class="m-logo"><a href="#">LOGO</a></h1>
+    <!-- /LOGO -->
+    <!-- 导航 -->
+    <ul class="m-nav">
+        <li><a href="#">NAV1</a></li>
+        <li><a href="#">NAV2</a></li>
+        <!-- 更多导航项 -->
+    </ul>
+    <!-- /导航 -->
+</div>
+<!-- /头部 -->
+
+```
+
+** 代码本身的注释方法 **
+```html
+<!-- <h1 class="m-logo"><a href="#">LOGO</a></h1> -->
+<!--
+<ul class="m-nav">
+    <li><a href="#">NAV1</a></li>
+    <li><a href="#">NAV2</a></li>
+</ul>
+-->
+```
+
 
 
 
